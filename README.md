@@ -7,7 +7,7 @@ We would also like you to sign a non-disclosure agreement, which we will send yo
 
 Note: Data sharing policy has been adapted from the ICWSM 2013 data sharing conditions.
 
-Please cite below mentioned papers in your research whil eusing this dataset:
+Please cite below mentioned papers in your research while eusing this dataset:
 
 1. Romantxt: Forms and Functions of Roman Urdu Texting 
 
