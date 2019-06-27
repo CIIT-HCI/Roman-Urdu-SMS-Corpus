@@ -6,3 +6,13 @@ We would be happy to share the data with academics and researchers. Before we pa
 We would also like you to sign a non-disclosure agreement, which we will send you upon receiving your email. If you are a student then kindly ask your supervisor or the head of the department to sign the non-disclosure agreement as well.  
 
 Note: Data sharing policy has been adapted from the ICWSM 2013 data sharing conditions.
+
+Please cite below mentioned papers in your research whil eusing this dataset:
+
+1. Romantxt: Forms and Functions of Roman Urdu Texting 
+
+https://dl.acm.org/citation.cfm?id=3098552 
+
+2. Analyzing Emergent Users Text Messages Data and Exploring its Benefits 
+
+https://ieeexplore.ieee.org/abstract/document/8589060
